@@ -5,3 +5,6 @@
 **/*.rs.bk
 *.swp
 pg_jsonschema-*
+.direnv
+/.pgrx
+/result*
